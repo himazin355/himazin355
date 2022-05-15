@@ -1,16 +1,22 @@
-### Hi there 👋
+# ざっくり自己紹介
+ワイくんと申します。小学校6年です。ちょっとだけプログラミングができたりします。
 
-<!--
-**himazin355/himazin355** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# スキル
+なんとびっくり全部独学で習得しました(ぉ
 
-Here are some ideas to get you started:
+まだ覚えてないことも多いですが。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### HTML
+もう多分これはコンプリートだと思います。
+
+### CSS
+だいぶ慣れてきましたという感じです。
+
+### JavaScript
+なんか書き方が好きです。あらかたできると思います。
+
+### Perl
+趣味でやっていたら、いつの間にかそこそこできるようになってました。
+
+### PHP
+バックエンド処理が非常に楽で、書いていて楽しいです。
