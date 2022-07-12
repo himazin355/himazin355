@@ -3,3 +3,15 @@
 [ワイくんの部屋](http://himazin355.web.fc2.com)
 ## masao.space
 [@himazin355](https://masao.space/himazin355/)
+## スキル　
+* HTML
+* CSS
+* JavaScript
+* Unity
+* Python
+* C
+* C++
+* PHP
+* Perl
+* TypeScript
+* Node.js
