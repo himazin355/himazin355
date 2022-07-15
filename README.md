@@ -7,11 +7,7 @@
 * HTML
 * CSS
 * JavaScript
-* Unity
 * Python
 * C
-* C++
 * PHP
 * Perl
-* TypeScript
-* Node.js
