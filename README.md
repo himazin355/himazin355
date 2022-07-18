@@ -13,3 +13,5 @@
 * PHP
 * Perl
 * Markdown
+* Ruby 
+* Paper
