@@ -12,10 +12,7 @@
 * C
 * PHP
 * Perl
-* Markdown
 * Ruby 
-* Paper
-* EMMJ
 ## すたっつとか
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=himazin355)
 ![Stats(2)](https://github-readme-stats.vercel.app/api/top-langs/?username=himazin355&layout=compact&theme=tokyonight)
