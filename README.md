@@ -16,5 +16,6 @@
 * Ruby 
 * Paper
 * EMMJ
-## 1つ言っていい?
-正男関連のリポジトリ全く出してない件wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+## すたっつ
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=himazin355)
+![Stats(2)](https://github-readme-stats.vercel.app/api/top-langs/?username=himazin355&layout=compact&theme=tokyonight)
