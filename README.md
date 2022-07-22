@@ -16,6 +16,8 @@
 * Ruby 
 * Paper
 * EMMJ
-## すたっつ
+## すたっつとか
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=himazin355)
 ![Stats(2)](https://github-readme-stats.vercel.app/api/top-langs/?username=himazin355&layout=compact&theme=tokyonight)
+![mac os](https://img.shields.io/badge/OS-mac-Orange) 
+![himazin355](https://komarev.com/ghpvc/?username=himazin355&color=green)
